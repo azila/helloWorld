@@ -1,3 +1,4 @@
 test test
+HEAD
 one more line
 third line
